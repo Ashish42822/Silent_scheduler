@@ -1,0 +1,31 @@
+name: silent_scheduler
+description: A Flutter app to schedule meetings and automatically switch phone to silent or vibrate mode.
+
+publish_to: 'none' # Remove this line if you want to publish
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & utilities
+  intl: ^0.18.1
+
+  # Local storage (JSON)
+  shared_preferences: ^2.2.2
+
+  # 🔇 Control phone sound mode (ANDROID ONLY)
+  sound_mode: ^3.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
