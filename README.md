@@ -1,22 +1,13 @@
-<<<<<<< HEAD
-# flutter_application_silent_scheduler
+# Silent Scheduler Application
 
-A new Flutter project.
+A Flutter-based application that helps users schedule meetings and automatically switch phone to silent or vibration mode.
 
-## Getting Started
+## Features
+- Schedule meeting (title, date, time)
+- Silent/Vibrate mode (Android)
+- Multilingual support (English/Nepali)
+- Global time display
+- Local storage (JSON)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Silent_scheduler
-project for Ict107
->>>>>>> 7f91c06e61ff83ae76508aaca6f774cef62e2962
+## Author
+Aashish Koirala
